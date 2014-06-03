@@ -215,6 +215,7 @@
 
  - `image/tiff`
  - `image/jpeg`
+ - `image/pjpeg`
  - `image/gif`
  - `image/png`
  - `image/ico`
